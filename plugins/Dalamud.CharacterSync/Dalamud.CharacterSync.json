@@ -1,0 +1,10 @@
+{
+  "Author": "goat",
+  "Name": "Character Data Sync",
+  "InternalName": "Dalamud.CharacterSync",
+  "AssemblyVersion": "1.7.0.0",
+  "Description": "This plugin allows you to use your character data from your main character on all others.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
