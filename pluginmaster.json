@@ -17,6 +17,23 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618684809"
+        "LastUpdated": "1618686770"
+    },
+    {
+        "Author": "luminisward & msdx321",
+        "Name": "MP Timer 2",
+        "Description": "BLM MP Timer for XivLauncher/Dalamud with more options.",
+        "InternalName": "MPTimer2",
+        "AssemblyVersion": "1.0.1.0",
+        "RepoUrl": "https://github.com/msdx321/MPTimer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1618686770"
     }
 ]
