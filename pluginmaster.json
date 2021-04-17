@@ -1,5 +1,22 @@
 [
     {
+        "Author": "Windmourn",
+        "Name": "SkipCutscene",
+        "Description": "This plugin can help you skip cutscene from\nthese instances.\n\nCastrum Meridianum\nThe Praetorium",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1618691939"
+    },
+    {
         "Author": "Adam",
         "Name": "Penumbra",
         "Description": "Runtime mod loader and manager.",
@@ -17,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618690594"
+        "LastUpdated": "1618691939"
     },
     {
         "Author": "luminisward & msdx321",
@@ -34,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618690594"
+        "LastUpdated": "1618691939"
     }
 ]
