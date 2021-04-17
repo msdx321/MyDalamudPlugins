@@ -2,7 +2,7 @@
   "Author": "Windmourn & msdx321",
   "Name": "SkipCutscene",
   "InternalName": "SkipCutscene",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "This plugin can help you skip all cutscenes",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
