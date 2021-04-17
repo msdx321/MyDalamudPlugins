@@ -2,7 +2,7 @@
   "Author": "luminisward & msdx321",
   "Name": "MP Timer 2",
   "InternalName": "MPTimer2",
-  "AssemblyVersion": "1.0.1.6",
+  "AssemblyVersion": "1.0.1.7",
   "Description": "BLM MP Timer for XivLauncher/Dalamud with more options.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msdx321/MPTimer",
