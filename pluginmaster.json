@@ -4,7 +4,7 @@
         "Name": "SkipCutscene",
         "Description": "This plugin can help you skip all cutscenes",
         "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618701029"
+        "LastUpdated": "1618701851"
     },
     {
         "Author": "Adam",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618701029"
+        "LastUpdated": "1618701851"
     },
     {
         "Author": "luminisward & msdx321",
@@ -51,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618701029"
+        "LastUpdated": "1618701851"
     }
 ]
