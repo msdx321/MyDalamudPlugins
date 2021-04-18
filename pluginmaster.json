@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618703433"
+        "LastUpdated": "1618728605"
     },
     {
         "Author": "goat",
@@ -30,7 +30,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618703433"
+        "LastUpdated": "1618728605"
     },
     {
         "Author": "Adam",
@@ -50,7 +50,24 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618703433"
+        "LastUpdated": "1618728605"
+    },
+    {
+        "Author": "Caraxi",
+        "Name": "Live Plugin Loader",
+        "Description": "Cursed Developer Shit.\nRapid prototype plugin loader.\nDo not install unless you are creating plugins.\nThis WILL break your game if you don't know what you're doing.",
+        "InternalName": "LivePluginLoad",
+        "AssemblyVersion": "1.0.0.5",
+        "RepoUrl": "https://github.com/Caraxi/LivePluginLoad",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1618728605"
     },
     {
         "Author": "luminisward & msdx321",
@@ -67,6 +84,6 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618703433"
+        "LastUpdated": "1618728605"
     }
 ]
