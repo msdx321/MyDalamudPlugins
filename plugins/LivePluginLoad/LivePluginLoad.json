@@ -1,0 +1,10 @@
+﻿{
+    "Author":  "Caraxi",
+    "Name":  "Live Plugin Loader",
+    "Description":  "Cursed Developer Shit.\nRapid prototype plugin loader.\nDo not install unless you are creating plugins.\nThis WILL break your game if you don\u0027t know what you\u0027re doing.",
+    "InternalName":  "LivePluginLoad",
+    "AssemblyVersion":  "1.0.0.5",
+    "RepoUrl":  "https://github.com/Caraxi/LivePluginLoad",
+    "DalamudApiLevel":  3,
+    "ApplicableVersion":  "any"
+}
