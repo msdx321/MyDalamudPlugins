@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618728605"
+        "LastUpdated": "1618758272"
     },
     {
         "Author": "goat",
@@ -30,7 +30,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618728605"
+        "LastUpdated": "1618758272"
     },
     {
         "Author": "Adam",
@@ -50,7 +50,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618728605"
+        "LastUpdated": "1618758272"
     },
     {
         "Author": "Caraxi",
@@ -67,14 +67,14 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618728605"
+        "LastUpdated": "1618758272"
     },
     {
         "Author": "luminisward & msdx321",
         "Name": "MP Timer 2",
         "Description": "BLM MP Timer for XivLauncher/Dalamud with more options.",
         "InternalName": "MPTimer2",
-        "AssemblyVersion": "1.0.1.8",
+        "AssemblyVersion": "1.0.2.0",
         "RepoUrl": "https://github.com/msdx321/MPTimer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -84,6 +84,6 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618728605"
+        "LastUpdated": "1618758272"
     }
 ]
