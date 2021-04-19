@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618758272"
+        "LastUpdated": "1618820314"
     },
     {
         "Author": "goat",
@@ -30,7 +30,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618758272"
+        "LastUpdated": "1618820314"
     },
     {
         "Author": "Adam",
@@ -50,7 +50,28 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618758272"
+        "LastUpdated": "1618820314"
+    },
+    {
+        "Author": "goat, modded by Franz",
+        "Name": "Discord Chat Bridge",
+        "Description": "This plugin allows you to receive your chat messages inside of discord.",
+        "InternalName": "Dalamud.DiscordBridge",
+        "AssemblyVersion": "1.1.0.1",
+        "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "discord",
+            "chat"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1618820314"
     },
     {
         "Author": "Caraxi",
@@ -67,7 +88,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618758272"
+        "LastUpdated": "1618820314"
     },
     {
         "Author": "luminisward & msdx321",
@@ -84,6 +105,6 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618758272"
+        "LastUpdated": "1618820314"
     }
 ]
