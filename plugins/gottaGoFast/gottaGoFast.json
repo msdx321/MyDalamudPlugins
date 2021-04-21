@@ -1,0 +1,11 @@
+{
+  "Author": "msdx321",
+  "Name": "GottaGoFast",
+  "InternalName": "gottaGoFast",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "A simple plugin contains some hacks.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/msdx321/GottaGoFast",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
