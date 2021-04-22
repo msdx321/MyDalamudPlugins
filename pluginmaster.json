@@ -1,36 +1,24 @@
 [
     {
-        "Author": "Windmourn & msdx321",
-        "Name": "SkipCutscene",
-        "Description": "This plugin can help you skip all cutscenes",
-        "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.0.0.2",
-        "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
+        "Author": "goat, modded by Franz",
+        "Name": "Discord Chat Bridge",
+        "Description": "This plugin allows you to receive your chat messages inside of discord.",
+        "InternalName": "Dalamud.DiscordBridge",
+        "AssemblyVersion": "1.1.0.1",
+        "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
         "ApplicableVersion": "any",
+        "Tags": [
+            "discord",
+            "chat"
+        ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
-    },
-    {
-        "Author": "goat",
-        "Name": "Character Data Sync",
-        "Description": "This plugin allows you to use your character data from your main character on all others.",
-        "InternalName": "Dalamud.CharacterSync",
-        "AssemblyVersion": "1.7.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
     },
     {
         "Author": "Adam",
@@ -44,34 +32,46 @@
             "modding"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
     },
     {
-        "Author": "goat, modded by Franz",
-        "Name": "Discord Chat Bridge",
-        "Description": "This plugin allows you to receive your chat messages inside of discord.",
-        "InternalName": "Dalamud.DiscordBridge",
-        "AssemblyVersion": "1.1.0.1",
-        "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+        "Author": "Windmourn & msdx321",
+        "Name": "SkipCutscene",
+        "Description": "This plugin can help you skip all cutscenes",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.0.0.2",
+        "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
         "ApplicableVersion": "any",
-        "Tags": [
-            "discord",
-            "chat"
-        ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
+    },
+    {
+        "Author": "goat",
+        "Name": "Character Data Sync",
+        "Description": "This plugin allows you to use your character data from your main character on all others.",
+        "InternalName": "Dalamud.CharacterSync",
+        "AssemblyVersion": "1.7.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1619093950"
     },
     {
         "Author": "Caraxi",
@@ -82,13 +82,13 @@
         "RepoUrl": "https://github.com/Caraxi/LivePluginLoad",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
     },
     {
         "Author": "luminisward & msdx321",
@@ -99,13 +99,13 @@
         "RepoUrl": "https://github.com/msdx321/MPTimer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
     },
     {
         "Author": "msdx321",
@@ -116,12 +116,12 @@
         "RepoUrl": "https://github.com/msdx321/GottaGoFast",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618991641"
+        "LastUpdated": "1619093950"
     }
 ]
