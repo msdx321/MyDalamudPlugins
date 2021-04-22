@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
     },
     {
         "Author": "goat",
@@ -30,14 +30,14 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
     },
     {
         "Author": "Adam",
         "Name": "Penumbra",
         "Description": "Runtime mod loader and manager.",
         "InternalName": "Penumbra",
-        "AssemblyVersion": "0.3.3.3",
+        "AssemblyVersion": "0.3.4.0",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "ApplicableVersion": "any",
         "Tags": [
@@ -50,7 +50,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
     },
     {
         "Author": "goat, modded by Franz",
@@ -71,7 +71,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.DiscordBridge/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
     },
     {
         "Author": "Caraxi",
@@ -88,7 +88,7 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
     },
     {
         "Author": "luminisward & msdx321",
@@ -105,6 +105,23 @@
         "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618820314"
+        "LastUpdated": "1618991641"
+    },
+    {
+        "Author": "msdx321",
+        "Name": "GottaGoFast",
+        "Description": "A simple plugin contains some hacks.",
+        "InternalName": "gottaGoFast",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/msdx321/GottaGoFast",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/gottaGoFast/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1618991641"
     }
 ]
