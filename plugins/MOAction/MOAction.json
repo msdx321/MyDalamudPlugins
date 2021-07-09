@@ -2,7 +2,7 @@
   "Author": "attick",
   "Name": "Mouseover Action",
   "InternalName": "MOAction",
-  "AssemblyVersion": "2.2.1.20",
+  "AssemblyVersion": "2.2.1.23",
   "Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
