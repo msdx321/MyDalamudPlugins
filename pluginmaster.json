@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "Adam",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "goat",
@@ -50,7 +50,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "Windmourn & msdx321",
@@ -67,7 +67,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "luminisward & msdx321",
@@ -84,14 +84,14 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "attick",
         "Name": "Mouseover Action",
         "Description": "This plugin allows for macro-like use of actions without any macro delay. /pmoaction to open UI",
         "InternalName": "MOAction",
-        "AssemblyVersion": "2.2.1.20",
+        "AssemblyVersion": "2.2.1.23",
         "RepoUrl": "https://github.com/attickdoor/MOActionPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -107,7 +107,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "UnknownX",
@@ -124,7 +124,7 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     },
     {
         "Author": "karashiiro",
@@ -147,6 +147,6 @@
         "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
         "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625802606"
+        "LastUpdated": "1625826859"
     }
 ]
