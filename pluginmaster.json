@@ -14,13 +14,13 @@
             "control"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MOAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "luminisward & msdx321",
@@ -31,13 +31,13 @@
         "RepoUrl": "https://github.com/msdx321/MPTimer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/MPTimer2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "UnknownX",
@@ -48,13 +48,13 @@
         "RepoUrl": "https://github.com/UnknownX7/QoLBar",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/QoLBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "Windmourn & msdx321",
@@ -65,13 +65,13 @@
         "RepoUrl": "https://github.com/msdx321/Dalamud.SkipCutscene",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "Caraxi",
@@ -82,13 +82,13 @@
         "RepoUrl": "https://github.com/Caraxi/LivePluginLoad",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/LivePluginLoad/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "karashiiro",
@@ -105,13 +105,13 @@
             "control"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/SoundSetter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "goat",
@@ -121,13 +121,13 @@
         "AssemblyVersion": "1.7.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Dalamud.CharacterSync/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     },
     {
         "Author": "Adam",
@@ -141,12 +141,12 @@
             "modding"
         ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkInstall": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
-        "DownloadLinkUpdate": "https://download.fastgit.org/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msdx321/MyDalamudPlugins/raw/master/plugins/Penumbra/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628145872"
+        "LastUpdated": "1628645360"
     }
 ]
